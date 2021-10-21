@@ -1,0 +1,33 @@
+html {
+  background-color: #F7F7FF;
+}
+h1 {
+  font-family: "Roboto Slab", serif;
+  color: #C1121F;
+}
+.resume-picture {
+  width: 10em;
+  border-width: 0.5em;
+  border-color: #780000;
+  border-style: solid;
+  border-radius: 10%;
+}
+h2, h3 {
+  font-family: "Ubuntu Mono", monospace;
+  color: #003049;
+}
+li {
+  font-family: "Roboto", sans-serif;
+}
+div {
+  background-color: #669BBC;
+  border-width: 0.5em;
+  border-color: #070700;
+  border-style: double;
+}
+#upper-part {
+  background-color: #FDF0D5;
+  border-width: 0.5em;
+  border-color: #070700;
+  border-style: double;
+}
